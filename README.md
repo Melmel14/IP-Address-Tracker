@@ -64,6 +64,9 @@ No comments at the moment as was an easy assignment, please share your ideas so 
 - [API](https://geo.ipify.org/) 
 - [Mockup website](https://www.ls.graphics/free-mockups) - I used the mockup from here, make sure you have adobe Photoshop or Adobe XD as is required to edit the mockup.
 - [Wallpaperflare](https://www.wallpaperflare.com/) - This is an amazing website has all the wallpaper in great quality, I used mine as my banner.
+- [Test IP's](https://ipinfo.io/ips) - Please try the IP's in the IP Address tracker so you can check how it works 😎
+
+
 
 
 
